@@ -4,7 +4,11 @@
 
 **Application DB Connection String:** `postgresql://db_appdb_6990d836536ace82f3c50cb1_user:dUIgyfP%5E4PYcasGVv7%26MfVCsZwHJlKtl@ep-misty-heart-afo1u54s.c-2.us-west-2.aws.neon.tech:5432/AppDB_6990d836536ace82f3c50cb1?sslmode=require`
 
-**Swagger API Tester URL:** /swagger
+## Web API
+
+**WebApi URL:** https://webapi6990d836536ace82f3c50cb1-production.up.railway.app
+
+**Swagger API Tester URL:** https://webapi6990d836536ace82f3c50cb1-production.up.railway.app/swagger
 
 ## Recommended Tools
 
